@@ -1,0 +1,14 @@
+{
+  "name": "cypress_framework",
+  "version": "1.0.0",
+  "description": "This is the framework devloped using cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan Nautiyal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
